@@ -5,6 +5,8 @@ Designed and implemented a complete multi-site enterprise topology using PNETLab
 ## 📌 Topology Overview
 <img width="1772" height="806" alt="Screenshot 2026-07-20 134429" src="https://github.com/user-attachments/assets/7d34b515-8b6f-4542-8091-92ffc95f5220" />
 
+Security Note: The attached FortiGate backup files are from an isolated, local virtual lab environment. For demonstration and portfolio evaluation purposes, the lab credentials and encrypted hashes have been left intact. In a real-world production environment, all backup files would be properly sanitized or fully encrypted before storage.
+
 ## 🚀 Key Implementations
 
 ### 1. Network Core & Switching
